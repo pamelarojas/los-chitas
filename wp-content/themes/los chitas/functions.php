@@ -48,8 +48,7 @@
 	add_action('wp_enqueue_scripts', 'register_enqueue_scripts');
 
 
-	remove_action('shutdown', 'wp_ob_end_fhusl_all',1);
-
+	
 	/*fin mi functions*/
 
 	// register menus  //
@@ -143,5 +142,7 @@
 
 	// imagen destacada //
 	add_theme_support('post-thumbnails');
+
+remove_action('shutdown', 'wp_ob_end_flush_all',1);
 
 	?>

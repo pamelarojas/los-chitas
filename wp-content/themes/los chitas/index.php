@@ -129,7 +129,7 @@
 
       <hr>
 
-      <section>
+     <!-- <section>
         <div class="container-fluid accesorios">
         <h1>Accesorios Necesarios</h1>
           <div class="row Accesorios-1">
@@ -152,7 +152,29 @@
             </div>
           </div>
         </div>
+      </section> -->
+
+
+      <!-- video -->
+      <section class="video">
+      <div class="container">
+        <div class="row">
+          <div class="video col-12 col-sm-12 col-md-6 col-lg-6 mb-5 mt-5">
+            <div class="embed-responsive embed-responsive-16by9 video mt-5 ml-4" style="width: 24rem;">
+             <iframe width="560" height="315" src="https://www.youtube.com/embed/tAGXHVSng_k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+            </div>
+          </div>
+
+          <div class="video col-12 col-sm-12 col-md-6 col-lg-6 mb-5 mt-5">
+            <div class="embed-responsive embed-responsive-16by9 video mt-5 ml-4"style="width: 24rem;">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/2_dYqMQtPhc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>  
+          </div>
+          </div>
+        </div>
+      </div>
       </section>
+      <!-- fin video -->
       
 </main>
 

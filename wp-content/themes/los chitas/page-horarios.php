@@ -80,7 +80,7 @@
 
           <div class="col-12 mapa_horarios">
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 float-left">
-              <p class="map_text"><strong>Dirección:</strong>Cancha Villa la Pradera (Humberto Caro con el Monte) </p>
+              <p class="map_text"><strong>Dirección:</strong>Cancha Villa la Pradera</p>
               <p class="map_text"><strong>Horarios:</strong>10:00hrs.</p>
               <p class="map_text"><strong>Días operativos:</strong> Sábados.</p>
             </div>

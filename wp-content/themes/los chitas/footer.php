@@ -1,11 +1,11 @@
 
   <hr>
 	<!-- footer -->
-  <footer style="background-color: #27282D">
+  <footer style="background-color: #27282D;">
     <div class="container">
       <div class="row">
         <div class="col-12 col-sm-12 col-md-4 col-lg-4 footer-img">
-          <img src="<?php echo get_theme_file_uri() ?>/assets/img/chitas.jpg" style="border-radius: 50%; padding: 30px; margin: 20px;">
+          <img src="<?php echo get_theme_file_uri() ?>/assets/img/chitas.jpg" style="border-radius: 50%; padding: 30px; margin: 10px;">
         </div>
 
         <div class="col-12 col-sm-12 col-md-4 col-lg-4 footer-center mt-5" style="font-size: 20px; padding: 20px; ">
@@ -14,12 +14,12 @@
         </div>
 
         <div class="col-12 col-sm-12 col-md-4 col-lg-4 footer-righ" style="font-size: 28px; padding: 70px;">
-          <a class="fab fa-facebook-square"style="font-size: 28px; "href="https://www.facebook.com/patinaje.piedraroja">  </a>
+          <a href="https://www.facebook.com/patinaje.piedraroja"> <i class="fab fa-facebook-square"></i></a>
 
           <a class="fab fa-instagram p-5"style="font-size: 28px; "href="https://www.instagram.com/los_chitas_de_quilicura/"></a>
           
-          <a class="fab fa-youtube"style="color:#FFA700" href="https://www.youtube.com/channel/UCHvE9zhnQ9V0J5B2OcZEZtQ" ></a>
-      
+          <a class="fab fa-youtube"style="color:#FFA700" href="https://www.youtube.com/channel/UCHvE9zhnQ9V0J5B2OcZEZtQ" ><img src="assets/"></a>
+     
         </div>
         <div class="clearfix"></div>
       </div>  
